@@ -1,0 +1,11 @@
+
+version 1: 
+    -open via click or shortcut 
+    -grab readable content via readability lib 
+    -text to speech 
+    -customize speed and language 
+    -playback controls - pause/resume/stop/skip
+    -voice picker 
+    -content script, popup UI, settings  
+
+
