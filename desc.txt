@@ -9,3 +9,34 @@ version 1:
     -content script, popup UI, settings  
 
 
+freemium:
+    -basic TTS (system voice)
+    -adjust speed & pitch 
+    -highlight while reading 
+    -keyboard shortcuts for play, pause, stop 
+    -read selection or entire page 
+    -limited daily usage 
+    -basic theme support 
+
+
+premium: 
+    -custom voices 
+    -multiple languages 
+    -unlimited daily usage 
+    -smart reading mode (skip ads, navbars and sidebars)
+    -advanced themes 
+    -voice bookmarks (resume reading)
+    -read pdfs, epubs, google docs (not just webpages)
+    -queue & playlist mode 
+    -background reading mode
+    -auto-scroll with sync 
+    -export to mp3 
+    -analytics dashboard
+    -alfred/obsidian/notion integration 
+
+
+uniqueness: 
+    -fair pricing 
+    -no login for free users 
+    -clean, minimal UI 
+    -transparent pricing 
